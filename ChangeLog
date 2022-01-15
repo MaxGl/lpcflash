@@ -1,0 +1,26 @@
+2006-11-10  Yuri Ovcharenko
+
+	* version 0.2.1.
+	* More device support.
+	
+2006-11-09  Yuri Ovcharenko
+
+	* version 0.2.0.
+	* First public release.
+	* Added UU encoding function.
+	* Added write memory support.
+	* Added go command.
+	* Added flash programming support.
+
+2006-11-07  Yuri Ovcharenko
+
+	* version 0.1.0
+	* Added read memory support.
+	* Added UU decoding function.
+
+2006-11-02  Yuri Ovcharenko
+
+	* version 0.0.1
+	* Project started.
+	* Entering ISP mode by DTR/RTS.
+	* Microcontroller detection.
