@@ -1,3 +1,17 @@
+# configure intermediates
+Makefile
+config.h
+config.log
+config.status
+libtool
+src/.deps/comm.Po
+src/.deps/lpc.Po
+src/.deps/lpcflash.Po
+src/.deps/uu.Po
+src/Makefile
+src/lpcflash
+stamp-h1
+
 # Prerequisites
 *.d
 
